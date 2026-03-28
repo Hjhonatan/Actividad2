@@ -1,4 +1,4 @@
-# Sistema Inteligente de Rutas 🚌
+# Sistema Inteligente de Rutas 
 Base de conocimiento con reglas lógicas para encontrar la mejor ruta entre estaciones de transporte masivo.
 
 ---
@@ -17,7 +17,7 @@ De B hasta E → B → D → E     (8 minutos)
 
 ## Requisitos
 
-- Python 3.x
+- Python 
 - No requiere librerías externas
 
 ---
@@ -25,7 +25,7 @@ De B hasta E → B → D → E     (8 minutos)
 ## Ejecución
 
 ```bash
-python rutas_video.py
+Actividad2.py
 ```
 
 ---
